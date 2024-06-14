@@ -3,6 +3,7 @@ import Brand from "./components/Brand/Brand";
 import Navbar from "./components/Navbar/Navbar";
 import Features from "./containers/Features/Features";
 import Header from "./containers/Header/Header";
+import Possibility from "./containers/Possibility/Possibility";
 import WhatGPT3 from "./containers/WhatGPT3/WhatGPT3";
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
       <Brand />
       <WhatGPT3 />
       <Features />
-      {/* <Possibility /> */}
+      <Possibility />
       {/* <CTA /> */}
       {/* <Blog /> */}
       {/* <Footer /> */}

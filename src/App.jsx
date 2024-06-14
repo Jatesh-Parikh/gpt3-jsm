@@ -1,4 +1,5 @@
 import "./App.css";
+import Brand from "./components/Brand/Brand";
 import Navbar from "./components/Navbar/Navbar";
 import Header from "./containers/Header/Header";
 
@@ -9,13 +10,13 @@ function App() {
         <Navbar />
         <Header />
       </div>
-      {/* <Brand />
-      <WhatGPT3 />
-      <Features />
-      <Possibility />
-      <CTA />
-      <Blog />
-      <Footer /> */}
+      <Brand />
+      {/* <WhatGPT3 /> */}
+      {/* <Features /> */}
+      {/* <Possibility /> */}
+      {/* <CTA /> */}
+      {/* <Blog /> */}
+      {/* <Footer /> */}
     </div>
   );
 }

@@ -17,8 +17,8 @@
 }
 
 .gpt3__navbar-links_logo img {
-  width: 62.56px;
-  height: 16.02px;
+  width: 62px;
+  height: 18px;
 }
 
 .gpt3__navbar-links_container {
@@ -41,7 +41,6 @@
   font-size: 18px;
   line-height: 25px;
   text-transform: capitalize;
-
   margin: 0 1rem;
   cursor: pointer;
 }
@@ -63,7 +62,6 @@
 
 .gpt3__navbar-menu {
   margin-left: 1rem;
-
   display: none;
   position: relative;
 }

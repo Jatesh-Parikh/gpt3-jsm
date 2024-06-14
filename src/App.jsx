@@ -2,6 +2,7 @@ import "./App.css";
 import Brand from "./components/Brand/Brand";
 import Navbar from "./components/Navbar/Navbar";
 import Header from "./containers/Header/Header";
+import WhatGPT3 from "./containers/WhatGPT3/WhatGPT3";
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
         <Header />
       </div>
       <Brand />
-      {/* <WhatGPT3 /> */}
+      <WhatGPT3 />
       {/* <Features /> */}
       {/* <Possibility /> */}
       {/* <CTA /> */}

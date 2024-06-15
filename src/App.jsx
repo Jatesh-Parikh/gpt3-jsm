@@ -1,5 +1,6 @@
 import "./App.css";
 import Brand from "./components/Brand/Brand";
+import CTA from "./components/CTA/CTA";
 import Navbar from "./components/Navbar/Navbar";
 import Features from "./containers/Features/Features";
 import Header from "./containers/Header/Header";
@@ -17,7 +18,7 @@ function App() {
       <WhatGPT3 />
       <Features />
       <Possibility />
-      {/* <CTA /> */}
+      <CTA />
       {/* <Blog /> */}
       {/* <Footer /> */}
     </div>
